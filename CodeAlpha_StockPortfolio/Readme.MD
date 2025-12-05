@@ -188,25 +188,23 @@ Make sure:
 
     🟢 Beginner Version (Stock_Portfolio.py)
 
-        ![Main Menu](screenshots/basic/menu_basic.png)        
+        ![Main Menu] (screenshots/basic/menu_basic.png)
 
-        ![Add Stock](screenshots/basic/add_stock_basic.png)
+        ![Add Stock] (screenshots/basic/add_stock_basic.png)
 
-        ![View Portfolio](screenshots/basic/view_basic.png)
+        ![View Portfolio] (screenshots/basic/view_basic.png)
 
-        ![Total Portfolio Value](screenshots/basic/total_basic.png)
+        ![Total Portfolio Value] (screenshots/basic/total_basic.png)
 
     🌐 Advanced Live Version (stock_portfolio_live.py)
 
-        ![Live Version Menu](screenshots/live/menu_live.png)
+        ![Live Version Menu] (screenshots/live/menu_live.png)
 
-        ![Fetching Live Price](screenshots/live/fetch_price.png)
+        ![Fetching Live Price] (screenshots/live/fetch_price.png)
 
-        ![Portfolio with Live Prices](screenshots/live/view_live.png)
+        ![Portfolio with Live Prices] (screenshots/live/view_live.png)
 
-        ![Total Portfolio Value Live](screenshots/live/total_live.png)
-
-
+        ![Total Portfolio Value Live] (screenshots/live/total_live.png)
 
 ---
 
